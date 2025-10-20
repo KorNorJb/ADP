@@ -1,0 +1,81 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# === Build and output ===
+target/
+build/
+out/
+bin/
+
+# === Logs ===
+*.log
+hs_err_pid*
+replay_pid*
+
+# === Maven ===
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# === Gradle ===
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# === IDEs ===
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# === OS-specific ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# === Other ===
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+*.rej
+.fleet/
+.env
