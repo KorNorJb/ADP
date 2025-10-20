@@ -1,0 +1,3 @@
+Language=RU
+Version=1.0
+AppName=TransportSystem
