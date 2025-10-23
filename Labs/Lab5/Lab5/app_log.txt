@@ -1,0 +1,6 @@
+[INFO] Поток 2 - INFO
+[INFO] Поток 1 - INFO
+[WARNING] Поток 2 - WARNING
+[WARNING] Поток 1 - WARNING
+[ERROR] Поток 2 - ERROR
+[ERROR] Поток 1 - ERROR
